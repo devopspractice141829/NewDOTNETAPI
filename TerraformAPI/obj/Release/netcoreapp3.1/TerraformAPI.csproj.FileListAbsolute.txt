@@ -1,0 +1,16 @@
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\DotNetAPI\TerraformAPI\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\DotNetAPI\TerraformAPI\bin\Release\netcoreapp3.1\appsettings.json
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\DotNetAPI\TerraformAPI\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\DotNetAPI\TerraformAPI\bin\Release\netcoreapp3.1\TerraformAPI.exe
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\DotNetAPI\TerraformAPI\bin\Release\netcoreapp3.1\TerraformAPI.deps.json
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\DotNetAPI\TerraformAPI\bin\Release\netcoreapp3.1\TerraformAPI.runtimeconfig.json
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\DotNetAPI\TerraformAPI\bin\Release\netcoreapp3.1\TerraformAPI.runtimeconfig.dev.json
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\DotNetAPI\TerraformAPI\bin\Release\netcoreapp3.1\TerraformAPI.dll
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\DotNetAPI\TerraformAPI\bin\Release\netcoreapp3.1\TerraformAPI.pdb
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\DotNetAPI\TerraformAPI\obj\Release\netcoreapp3.1\TerraformAPI.csprojAssemblyReference.cache
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\DotNetAPI\TerraformAPI\obj\Release\netcoreapp3.1\TerraformAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\DotNetAPI\TerraformAPI\obj\Release\netcoreapp3.1\TerraformAPI.AssemblyInfoInputs.cache
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\DotNetAPI\TerraformAPI\obj\Release\netcoreapp3.1\TerraformAPI.AssemblyInfo.cs
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\DotNetAPI\TerraformAPI\obj\Release\netcoreapp3.1\TerraformAPI.RazorTargetAssemblyInfo.cache
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\DotNetAPI\TerraformAPI\obj\Release\netcoreapp3.1\TerraformAPI.dll
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\DotNetAPI\TerraformAPI\obj\Release\netcoreapp3.1\TerraformAPI.pdb
