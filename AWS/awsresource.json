@@ -1,0 +1,10 @@
+[
+  {
+    "resourceName": "EC2",
+    "resourceScript": "resource"
+  },
+  {
+    "resourceName": "DYNAMODB",
+    "resourceScript": ""
+  }
+]

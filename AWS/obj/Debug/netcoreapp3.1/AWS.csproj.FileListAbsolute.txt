@@ -1,0 +1,26 @@
+D:\Sandeep\COE\Accelerators\DevOps\Terraform\AWS\bin\Debug\netcoreapp3.1\AWS.exe
+D:\Sandeep\COE\Accelerators\DevOps\Terraform\AWS\obj\Debug\netcoreapp3.1\AWS.csprojAssemblyReference.cache
+D:\Sandeep\COE\Accelerators\DevOps\Terraform\AWS\obj\Debug\netcoreapp3.1\AWS.AssemblyInfoInputs.cache
+D:\Sandeep\COE\Accelerators\DevOps\Terraform\AWS\obj\Debug\netcoreapp3.1\AWS.AssemblyInfo.cs
+D:\Sandeep\COE\Accelerators\DevOps\Terraform\AWS\bin\Debug\netcoreapp3.1\AWS.deps.json
+D:\Sandeep\COE\Accelerators\DevOps\Terraform\AWS\bin\Debug\netcoreapp3.1\AWS.runtimeconfig.json
+D:\Sandeep\COE\Accelerators\DevOps\Terraform\AWS\bin\Debug\netcoreapp3.1\AWS.runtimeconfig.dev.json
+D:\Sandeep\COE\Accelerators\DevOps\Terraform\AWS\bin\Debug\netcoreapp3.1\AWS.dll
+D:\Sandeep\COE\Accelerators\DevOps\Terraform\AWS\bin\Debug\netcoreapp3.1\AWS.pdb
+D:\Sandeep\COE\Accelerators\DevOps\Terraform\AWS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Sandeep\COE\Accelerators\DevOps\Terraform\AWS\obj\Debug\netcoreapp3.1\AWS.csproj.CopyComplete
+D:\Sandeep\COE\Accelerators\DevOps\Terraform\AWS\obj\Debug\netcoreapp3.1\AWS.dll
+D:\Sandeep\COE\Accelerators\DevOps\Terraform\AWS\obj\Debug\netcoreapp3.1\AWS.pdb
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\AWS\bin\Debug\netcoreapp3.1\AWS.exe
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\AWS\bin\Debug\netcoreapp3.1\AWS.deps.json
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\AWS\bin\Debug\netcoreapp3.1\AWS.runtimeconfig.json
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\AWS\bin\Debug\netcoreapp3.1\AWS.runtimeconfig.dev.json
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\AWS\bin\Debug\netcoreapp3.1\AWS.dll
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\AWS\bin\Debug\netcoreapp3.1\AWS.pdb
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\AWS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\AWS\obj\Debug\netcoreapp3.1\AWS.csprojAssemblyReference.cache
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\AWS\obj\Debug\netcoreapp3.1\AWS.AssemblyInfoInputs.cache
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\AWS\obj\Debug\netcoreapp3.1\AWS.AssemblyInfo.cs
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\AWS\obj\Debug\netcoreapp3.1\AWS.csproj.CopyComplete
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\AWS\obj\Debug\netcoreapp3.1\AWS.dll
+D:\Sandeep\COE\Training\Azure DevOps Training\TerraformAPI\AWS\obj\Debug\netcoreapp3.1\AWS.pdb
